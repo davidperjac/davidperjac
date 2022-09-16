@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **diperez@espol.edu.ec**
 
-- 👨‍💻 All of my projects are available at [Soon](Soon) 
+- 👨‍💻 All of my projects are available at my a href="https://davidperjac.netlify.app/">portfolio</a> 
 
 - 📝 I regularly write articles on [Soon](Soon)
 
