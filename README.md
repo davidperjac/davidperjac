@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **FullStack Projects**
 
-- 🌱 I’m currently learning **about Backend Development**
+- 🌱 I’m currently learning **about iOS Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
