@@ -1,12 +1,12 @@
 <h1 align="center">Hello 👋, I'm David</h1>
-<h3 align="center">A passionate Software Developer from Ecuador 🇪🇨</h3>
+<h3 align="center">A passionate Software Developer from Ecuador 🇪🇨, currently based in Katy, Texas</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=davidperjac&label=Profile%20views&color=0e75b6&style=flat" alt="davidperjac" /> </p>
 
 <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 - 🔭 I’m currently working on **Frontend Projects**
 
-- 🌱 I’m currently learning **iOS Development**
+- 🌱 I’m currently learning about **SaaS**
 
 - 👨‍💻 All of my projects are available at [https://davidperjac.netlify.app/](https://davidperjac.netlify.app/)
 
